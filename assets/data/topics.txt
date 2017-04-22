@@ -1,0 +1,103 @@
+vinaya pitaka,file:///android_asset/tipitaka/1Vinaya-Pitaka/index.html
+parajika,file:///android_asset/tipitaka/1Vinaya-Pitaka/index.html
+sanghadisesa,file:///android_asset/tipitaka/1Vinaya-Pitaka/index.html
+pacittiya,file:///android_asset/tipitaka/1Vinaya-Pitaka/index.html
+bhikkhuni vinaya,file:///android_asset/tipitaka/1Vinaya-Pitaka/index.html
+mahavagga,file:///android_asset/tipitaka/1Vinaya-Pitaka/index.html
+cullavagga,file:///android_asset/tipitaka/1Vinaya-Pitaka/index.html
+parivara,file:///android_asset/tipitaka/1Vinaya-Pitaka/index.html
+patimokkha,file:///android_asset/tipitaka/1Vinaya-Pitaka/index.html
+digha nikaya,file:///android_asset/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/index.html
+majjhima nikaya,file:///android_asset/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html
+samyutta nikaya,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+devata samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+devaputta samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+kosala samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+mara samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+bhikkhuni samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+brahmana samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+vangisa thera samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+vana samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+abhisamaya samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+dhatu samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+anamatagga samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+kassapa samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+labhasakkara samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+rahula samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+lakkhana samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+opamma samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+bhikkhu samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+khandha samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+radha samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+ditthi samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+okkantika samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+uppada samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+kilesa samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+sariputta samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+naga samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+supanna samyutta>,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+gandhabbakaya samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+valahaka samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+vacchagotta samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+jhana samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+salayatana samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+vedana samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+matugama samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+jambukhadaka samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+samandakani samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+moggallana samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+citta samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+gamani samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+asankhata samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+abyakata samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+magga samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+bojjhanga samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+satipatthana samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+indriya samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+sammappadhana samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+bala samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+iddhipada samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+anuruddha samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+jhana samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+Anapanasa samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+sotapatti samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+sacca samyutta,file:///android_asset/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html
+anguttara nikaya,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+ekakanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+dukanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+tikanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+catukkanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+pancakanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+chakkanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+sattakanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+atthakanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+navakanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+dasakanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+ekadasakanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html
+mahavagga,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/12Patisambhidamagga/index.html
+nanakatha,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/12Patisambhidamagga/index.html
+yuganandavagga,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/12Patisambhidamagga/index.html
+pannayavagga,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/12Patisambhidamagga/index.html
+khuddhakapatha,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+dhammapada,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+udana,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+itivuttaka,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+suttanipata,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+vimanavatthu,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+petavatthu,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+theragatha,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+jataka,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+maha niddesa,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+culla nidessa,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+patisambhidamagga,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+thera apadana,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+theri apadana,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+buddhavamsa,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+cariyapitaka,file:///android_asset/tipitaka/2Sutta-Pitaka/5Khuddaka-Nikaya/index.html
+dhammasaigaoi,file:///android_asset/tipitaka/3Abhidhamma-Pitaka/index.html
+vibhaigappakaraoa,file:///android_asset/tipitaka/3Abhidhamma-Pitaka/index.html
+dhatukathappakaraoa,file:///android_asset/tipitaka/3Abhidhamma-Pitaka/index.html
+puggalapannati,file:///android_asset/tipitaka/3Abhidhamma-Pitaka/index.html
+kathavattu,file:///android_asset/tipitaka/3Abhidhamma-Pitaka/index.html
+yammakappakarana,file:///android_asset/tipitaka/3Abhidhamma-Pitaka/index.html
+patthanappakarana,file:///android_asset/tipitaka/3Abhidhamma-Pitaka/index.html

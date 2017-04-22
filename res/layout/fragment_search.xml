@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#fff"
+              android:orientation="vertical"
+              android:id="@+id/fragment_bookmarks">
+
+    <EditText
+            android:id="@+id/etSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp" android:layout_toLeftOf="@+id/btnCancel" android:layout_alignParentLeft="true"
+            android:layout_above="@+id/searchList"/>
+
+    <Button
+            android:id="@+id/btnSearch"
+            android:layout_width="100dp"
+            android:padding="5dp"
+            android:layout_height="wrap_content"
+            android:text="Search" android:layout_alignParentTop="true" android:layout_alignParentRight="true"/>
+    <ListView
+            android:id="@+id/searchListList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btnCancel" android:layout_alignParentLeft="true">
+    </ListView>
+
+</RelativeLayout>
